@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,KACE,wBACF","file":"main.cba57fa6.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\nbody {\n  background-color: #eac6fc;\n}\n"]}

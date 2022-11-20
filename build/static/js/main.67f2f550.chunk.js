@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{12:function(t,e,c){},14:function(t,e,c){"use strict";c.r(e);var r=c(1),n=c(3),s=(c(12),c(0));function o(){return Object(s.jsx)("div",{className:"App"})}var a=document.getElementById("root");Object(n.createRoot)(a).render(Object(s.jsx)(r.StrictMode,{children:Object(s.jsx)(o,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.67f2f550.chunk.js.map
